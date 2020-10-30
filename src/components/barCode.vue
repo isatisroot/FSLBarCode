@@ -201,11 +201,11 @@
 </script>
 
 <style>
-	label{
+/* 	label{
 				width:90px;
 				display:inline-block;
 				text-align: right;
-				/* margin-right: 10px; */
+			
 			}
 
 	ul li {
@@ -238,8 +238,8 @@
 	}
 
 	p {
-		/* margin-left: 80px; */
+
 		text-align: center;
 		color: red;
-	}
+	} */
 </style>

@@ -1,20 +1,12 @@
 <template>
 	<div id="app">
-		<!-- <barcode></barcode> -->
 		<router-view></router-view>
-
 	</div>
 </template>
-<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
-<script>
-	// import barcode from './components/barcode.vue'
 
+<script>
 	export default {
 		name: 'App',
-// 		components: {
-// 			barcode
-// 		},
-
 	}
 </script>
 
@@ -27,5 +19,4 @@
 		color: #2c3e50;
 		margin-top: 60px;
 	}
-	
 </style>
